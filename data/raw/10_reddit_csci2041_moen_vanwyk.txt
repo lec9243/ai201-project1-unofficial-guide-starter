@@ -1,0 +1,38 @@
+Title: Reddit thread: CSCI2041 Moen vs Van Wyk
+Source: Reddit r/uofmn
+Original URL: https://www.reddit.com/r/uofmn/comments/u2nqg4/csci_2041/
+Professor(s): James Moen and Eric Van Wyk
+Course(s): CSCI2041
+Date: thread from about 4 years ago
+Document type: reddit thread
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+The original poster asks whether to choose James Moen or Eric Van Wyk for CSCI2041. They want an enjoyable fall semester and say Rate My Professors reviews may be less useful because many are from the quarantine period when online classes were different.
+
+Several comments recommend Moen. One student calls Moen very funny, strongly recommends him, and says his classes are very easy. Another commenter agrees, calling Moen one of their favorite CSCI professors and praising his teaching style and dry humor.
+
+A longer comparison says the commenter took Moen's class and was a TA for Eric Van Wyk. For content, the commenter says Van Wyk is better because he covers more material, gives more useful assignments, and posts course materials online. Moen writes material on the board, which can make missed classes harder to recover from. For workload, Moen is described as having weekly labs, two or three projects, two midterms, and one final. Van Wyk is described as having weekly labs, in-class work, seven mostly long homeworks, five quizzes, and one final, making his workload much heavier. For grading, Moen is described as requiring a higher percentage for an A and having fewer assignments, so small mistakes hurt more. Van Wyk is described as having more assignments, partial credit, dropped lows, and autograder feedback, giving students more room for mistakes. The summary recommendation is that students who want to pass with less stress should choose Moen, while students who want to learn more useful material and challenge themselves should choose Van Wyk.
+
+Another short comment says Moen may not be assigning tests in 2041, but a reply says he did assign tests last semester. This thread is useful for comparing Moen vs Van Wyk on workload, content quality, teaching style, grading, online materials, tests, and whether a student wants an easier semester or deeper learning.
+
+Useful retrieval topics:
+- CSCI2041
+- James Moen
+- Eric Van Wyk
+- easier semester
+- enjoyable semester
+- workload
+- weekly labs
+- projects
+- midterms
+- final
+- long homework
+- quizzes
+- grading
+- partial credit
+- autograder
+- useful assignments
+- course materials
+- dry humor
+- funny professor

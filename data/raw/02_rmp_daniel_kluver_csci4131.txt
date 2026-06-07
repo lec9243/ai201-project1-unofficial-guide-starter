@@ -1,0 +1,21 @@
+Title: Rate My Professors review: Daniel Kluver for CSCI4131
+Source: Rate My Professors
+Original URL: https://www.ratemyprofessors.com/rating/42395301?utm_source=share&utm_medium=web&utm_campaign=prof_rating
+Professor(s): Daniel Kluver
+Course(s): CSCI4131
+Date: Dec 25, 2025
+Document type: single professor review
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+A student review of Daniel Kluver's CSCI4131 is negative. The review gives low quality and high difficulty ratings. Attendance is marked as mandatory. The student complains that the instructor's classroom style feels strange and that his humor may include inappropriate or foul language. The student also says homework can receive unexpected or strange deductions. The review says communicating with the professor can feel condescending. To do well, the reviewer says students should expect to spend a lot of time studying and a lot of time completing homework. The review's useful information is mostly about workload, grading frustration, communication style, and mandatory attendance.
+
+Useful retrieval topics:
+- Daniel Kluver
+- CSCI4131
+- mandatory attendance
+- homework deductions
+- heavy studying
+- heavy homework
+- communication problems
+- difficulty

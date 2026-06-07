@@ -1,0 +1,22 @@
+Title: Rate My Professors review: Kevin Wendt for CSCI5801
+Source: Rate My Professors
+Original URL: https://www.ratemyprofessors.com/rating/39954983?utm_source=share&utm_medium=web&utm_campaign=prof_rating
+Professor(s): Kevin Wendt
+Course(s): CSCI5801
+Date: Nov 15, 2024
+Document type: single professor review
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+A student review describes Kevin Wendt as a good professor for CSCI5801. Attendance is marked as not mandatory. The textbook readings are described as optional, mainly for getting extra information beyond lecture. The professor speaks for most of the lecture time, but the reviewer says he keeps it interesting by including industry-related information. Exams are described as very doable. Homework is not viewed as a large burden because assignments are usually divided among a four-person group. The overall impression is that the class is manageable, lecture-focused, and not too workload-heavy.
+
+Useful retrieval topics:
+- Kevin Wendt
+- CSCI5801
+- textbook optional
+- industry information
+- lectures
+- doable exams
+- group homework
+- low workload
+- attendance not mandatory

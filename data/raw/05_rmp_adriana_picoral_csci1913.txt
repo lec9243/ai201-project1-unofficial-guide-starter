@@ -1,0 +1,21 @@
+Title: Rate My Professors review: Adriana Picoral for CSCI1913
+Source: Rate My Professors
+Original URL: https://www.ratemyprofessors.com/rating/43017041?utm_source=share&utm_medium=web&utm_campaign=prof_rating
+Professor(s): Adriana Picoral
+Course(s): CSCI1913
+Date: May 4, 2026
+Document type: single professor review
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+A student review of Adriana Picoral's CSCI1913 is mildly positive or neutral. The student says they learned a lot in the class, but they do not strongly credit the professor for that learning. Students are expected to read about each topic before class. Lectures can still be useful when a student does not understand a topic after reading, but the reviewer says many students do not feel a strong need to attend. Attendance is marked as not mandatory. The professor is described as fine, and the reviewer says students should not worry too much about taking her classes. The source is useful for questions about readings, lecture value, attendance, and self-study.
+
+Useful retrieval topics:
+- Adriana Picoral
+- CSCI1913
+- readings before class
+- lectures optional
+- attendance not mandatory
+- self-study
+- learning
+- professor fine

@@ -1,0 +1,23 @@
+Title: Rate My Professors review: Jack Kolb for CSCI5103
+Source: Rate My Professors
+Original URL: https://www.ratemyprofessors.com/rating/43184294?utm_source=share&utm_medium=web&utm_campaign=prof_rating
+Professor(s): Jack Kolb
+Course(s): CSCI5103
+Date: May 23, 2026
+Document type: single professor review
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+A student review describes Jack Kolb's CSCI5103 as one of the student's favorite classes in the degree. The class covers operating systems, which the reviewer sees as layered and complex, but Kolb is described as breaking the material into manageable study pieces. The main workload comes from labs and homework. Those assignments are characterized as difficult and time-consuming, but also rewarding. The review says the course has one midterm and one final, but the exams are not considered especially difficult. Attendance is marked as not mandatory. The review is strongly positive overall and highlights clear lectures, substantial homework, and lecture-heavy teaching.
+
+Useful retrieval topics:
+- Jack Kolb
+- CSCI5103
+- operating systems
+- workload
+- labs
+- homework
+- exams
+- attendance not mandatory
+- lectures
+- difficulty

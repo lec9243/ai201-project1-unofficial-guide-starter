@@ -1,0 +1,30 @@
+Title: Reddit thread: Professor recommendations for CSCI classes
+Source: Reddit r/uofmn
+Original URL: https://www.reddit.com/r/uofmn/comments/juyehz/prof_recommendations_for_csci_classes/
+Professor(s): multiple professors
+Course(s): CSCI2021, CSCI2041, CSCI2033, CSCI4041
+Date: thread from about 6 years ago
+Document type: reddit thread
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+The original poster asks for professor recommendations for CSCI2021, CSCI2041, CSCI2033, and CSCI4041. They specifically ask about professors such as Qi Zhao, Victoria Interrante, Eric Van Wyk, Nick Hopper, Moen, Kauffman, and others. One commenter strongly advises not taking CSCI2033 with Interrante. When asked why, another comment says the tests are difficult and long, the homework is tedious and lengthy, the lectures move too quickly through slides, and the instructor is not very open to feedback. This makes Interrante the main negative recommendation in the thread.
+
+For CSCI2041, commenters describe Eric Van Wyk as decent, well suited for online instruction, and a good choice. Another comment says Van Wyk is amazing for 2041. One user also recommends Moen, saying he is a great professor and that they had him twice. For CSCI2021, commenters recommend Kauffman strongly, with one calling him the best professor they had at UMN so far. The poster later updates that they have Moen for two classes, plus Kauffman and Sturtivant, and another commenter says that seems like a great semester. This thread is useful for broad professor recommendation questions across multiple CSCI classes, especially warnings about Interrante and recommendations for Kauffman, Van Wyk, and Moen.
+
+Useful retrieval topics:
+- CSCI professor recommendations
+- CSCI2021
+- CSCI2041
+- CSCI2033
+- Kauffman
+- Van Wyk
+- Moen
+- Interrante
+- Qi Zhao
+- Hopper
+- Sturtivant
+- avoid Interrante
+- difficult tests
+- tedious homework
+- online instruction

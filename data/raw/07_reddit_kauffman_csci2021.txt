@@ -1,0 +1,26 @@
+Title: Reddit thread: CSCI 2021 thoughts on Kauffman
+Source: Reddit r/uofmn
+Original URL: https://www.reddit.com/r/uofmn/comments/jcdeya/csci_2021_thoughts_on_kauffman/
+Professor(s): Kauffman
+Course(s): CSCI2021
+Date: thread from about 6 years ago
+Document type: reddit thread
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+This Reddit thread is strongly positive toward Kauffman for CSCI2021. The original poster says they came into the course worried because many students find CSCI2021 difficult, but they ended up viewing Kauffman as one of the best professors they had. The post praises him for taking student feedback seriously, responding honestly to survey results, and trying to make students' lives easier.
+
+Several commenters agree. Students describe Kauffman as one of the best professors in CSE or the CS department, a great fit for CSCI2021, motivating, energetic, and genuinely caring about students. One commenter says they would choose him for any class, and another says he was their favorite professor so far. A student praises his engagement point system, where students can trade extra lab points for late project submissions. Another commenter says he helped with project issues that TAs could not solve, including spending time emailing back and forth. There is also a warning from one commenter not to take CSCI2021 with McCamant. Overall, the thread is useful for questions about professor recommendations, CSCI2021 difficulty, student support, feedback responsiveness, late project flexibility, and student motivation.
+
+Useful retrieval topics:
+- Kauffman
+- CSCI2021
+- professor recommendation
+- student feedback
+- caring professor
+- engagement points
+- late projects
+- lab points
+- motivation
+- best professor
+- McCamant warning

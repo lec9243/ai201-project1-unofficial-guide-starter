@@ -1,0 +1,26 @@
+Title: Reddit thread: CSCI 2011 with Sebastiaan Joosten
+Source: Reddit r/uofmn
+Original URL: https://www.reddit.com/r/uofmn/comments/18tplvc/csci_2011_w_sebastiaan_joosten/
+Professor(s): Sebastiaan Joosten
+Course(s): CSCI2011
+Date: thread from about 2 years ago
+Document type: reddit thread
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+The original poster asks about taking CSCI2011 with Sebastiaan Joosten, especially attendance, whether attendance affects grades, and whether the course has a final. A commenter using the name sjoosten-umn, apparently the instructor, says the syllabus was still being written but that there would be at least some mandatory attendance component. He also explains that the class has a final similar in style to CSCI2041. The final works as a re-sit or do-over for any midterms the student missed or wants to improve. Because of this design, the final can count as a very large part of the grade if a student uses it to improve many midterms, or as little as 0 percent if the student is satisfied with their midterm grades and does not need it.
+
+Another student says they took the course earlier. They report that discussion attendance counted toward the grade, but lecture attendance did not. That student also says the first version of the course had some coordination problems among lectures, homework, and exams, and that the course was curved multiple times. They confirm that the course had a final. This thread is useful for questions about Joosten, CSCI2011 attendance, discussion attendance, final structure, midterm replacement, and grading uncertainty.
+
+Useful retrieval topics:
+- Sebastiaan Joosten
+- CSCI2011
+- mandatory attendance
+- discussion attendance
+- lecture attendance
+- final exam
+- re-sit
+- do-over
+- midterm replacement
+- grade weight
+- curve

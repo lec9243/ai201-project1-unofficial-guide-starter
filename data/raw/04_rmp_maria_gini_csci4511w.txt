@@ -1,0 +1,23 @@
+Title: Rate My Professors review: Maria Gini for CSCI4511W
+Source: Rate My Professors
+Original URL: https://www.ratemyprofessors.com/rating/41073960?utm_source=share&utm_medium=web&utm_campaign=prof_rating
+Professor(s): Maria Gini
+Course(s): CSCI4511W
+Date: Apr 28, 2025
+Document type: single professor review
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+A student review of Maria Gini's CSCI4511W is mixed. The reviewer says Gini knows a lot about the subject and is a nice professor to learn from. However, the student warns that reading the textbook is important because exams may include material from the book that is not directly taught in lecture. The review also complains that practice exam answer keys are not provided. Another challenge is that the course project is described as fairly unguided. Attendance is marked as mandatory, and the page tags emphasize reading, participation, and group projects. This source is useful for questions about textbook dependence, exam preparation, project guidance, attendance, and professor helpfulness.
+
+Useful retrieval topics:
+- Maria Gini
+- CSCI4511W
+- textbook required
+- exam content from book
+- lecture gaps
+- no practice exam answer keys
+- unguided project
+- mandatory attendance
+- participation
+- group projects

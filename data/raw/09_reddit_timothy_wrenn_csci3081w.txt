@@ -1,0 +1,32 @@
+Title: Reddit thread: How bad is Timothy Wrenn for CSCI3081W?
+Source: Reddit r/uofmn
+Original URL: https://www.reddit.com/r/uofmn/comments/g4nfqj/how_bad_is_timothy_wrenn_for_csci_3081w/
+Professor(s): Timothy Wrenn
+Course(s): CSCI3081W and CSCI2011
+Date: thread from about 6 years ago
+Document type: reddit thread
+Processing note: This is a cleaned, paraphrased corpus note derived from the source page for student-project use. It is not a full verbatim reproduction of the webpage.
+
+Cleaned corpus note:
+The original poster asks whether Timothy Wrenn should be avoided for CSCI3081W because of poor Rate My Professors ratings. The post also mentions there is a new instructor with no ratings. Most replies discuss Wrenn from the perspective of CSCI2011 rather than direct experience with CSCI3081W, so this thread should be treated carefully when answering 3081W-specific questions.
+
+One commenter who took Wrenn for CSCI2011 says he teaches alright and that expectations are clear enough, with no surprises. The same commenter criticizes Wrenn's ego and classroom manner, saying he brags and interrupts students, but also says the homework was minimal and that he did a good job teaching the material. That student says they could understand proofs and predicate logic after the class.
+
+Another commenter, also from CSCI2011, strongly disagrees about the teaching quality. They say he mostly read from slides, asked rhetorical questions, waited for student responses, and came across as condescending. This commenter says they taught themselves from slides during the second half of the semester and would rather try a new instructor than take Wrenn again.
+
+A separate comment reports that for CSCI3081W, the new instructor was using Java while Wrenn was using C++. The thread is useful for mixed opinions on Wrenn's teaching style, clarity, personality, homework level, and language choice for CSCI3081W. It is not strong evidence about CSCI3081W exams, curves, or grading details.
+
+Useful retrieval topics:
+- Timothy Wrenn
+- CSCI3081W
+- CSCI2011
+- C++
+- Java
+- clear expectations
+- minimal homework
+- proofs
+- predicate logic
+- reads from slides
+- condescending
+- mixed opinions
+- avoid or not
