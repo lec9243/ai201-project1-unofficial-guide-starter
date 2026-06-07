@@ -76,7 +76,7 @@
 | 2 | Why does the Maria Gini review say students need to read the textbook for CSCI4511W? | The answer should say that Gini knows the subject and is nice, but students need to read because exams include questions from the textbook that are not taught in lecture. It should also mention that practice exam answer keys are not provided and the project is fairly unguided. |
 | 3 | How does the final work in Sebastiaan Joosten’s CSCI2011, according to the Reddit thread? | The answer should say that there is a final, but it works as a re-sit or do-over for midterms that students missed or want to improve. The final can count as a large part of the grade if used to replace many midterms, or as 0% if the student is satisfied with their midterm grades. The answer may also mention that attendance had at least some mandatory component. |
 | 4 | Why do students recommend Kauffman for CSCI2021? | The answer should say that students describe Kauffman as one of the best CS/CSE professors, caring, motivating, responsive to feedback, and helpful. It should also mention the engagement point system where students could exchange extra lab points for late project submissions. |
-| 5 | For CSCI2041, who should a student choose if they want an easier semester versus deeper learning: Moen or Van Wyk? | The answer should say that Moen is recommended for an easier and more enjoyable semester, while Van Wyk is recommended for students who want more useful assignments, more complete course materials, and a bigger challenge. It should mention that Van Wyk has a heavier workload, while Moen is described as easier/funnier. |
+| 5 | For CSCI2041, what do students say about choosing Moen versus Van Wyk in terms of workload, useful assignments, and learning? |
 
 ---
 

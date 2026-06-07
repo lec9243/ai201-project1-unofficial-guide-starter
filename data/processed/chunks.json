@@ -97,7 +97,7 @@
   },
   {
     "id": "07_reddit_kauffman_csci2021_chunk_1",
-    "text": "Several commenters agree. Students describe Kauffman as one of the best professors in CSE or the CS department, a great fit for CSCI2021, motivating, energetic, and genuinely caring about students. One commenter says they would choose him for any class, and another says he was their favorite professor so far. A student praises his engagement point system, where students can trade extra lab points for late project submissions. Another commenter says he helped with project issues that TAs could not solve, including spending time emailing back and forth. There is also a warning from one commenter not to take CSCI2021 with McCamant. Overall, the thread is useful for questions about professor recommendations, CSCI2021 difficulty, student support, feedback responsiveness, late project flexibilit",
+    "text": "Several commenters agree. Students describe Kauffman as one of the best professors in CSE or the CS department, a great fit for CSCI2021, motivating, energetic, and genuinely caring about students. One commenter says they would choose him for any class, and another says he was their favorite professor so far. A student praises his engagement point system, where students can trade extra lab points for late project submissions. Another commenter says he helped with project issues that TAs could not solve, including spending time emailing back and forth. There is also a warning from one commenter not to take CSCI2021 with McCamant.",
     "source_file": "07_reddit_kauffman_csci2021.txt",
     "chunk_index": 1,
     "title": "Reddit thread: CSCI 2021 thoughts on Kauffman",
@@ -109,7 +109,7 @@
   },
   {
     "id": "07_reddit_kauffman_csci2021_chunk_2",
-    "text": "ommendations, CSCI2021 difficulty, student support, feedback responsiveness, late project flexibility, and student motivation.",
+    "text": "back and forth. There is also a warning from one commenter not to take CSCI2021 with McCamant. Overall, the thread is useful for questions about professor recommendations, CSCI2021 difficulty, student support, feedback responsiveness, late project flexibility, and student motivation.",
     "source_file": "07_reddit_kauffman_csci2021.txt",
     "chunk_index": 2,
     "title": "Reddit thread: CSCI 2021 thoughts on Kauffman",
@@ -181,7 +181,7 @@
   },
   {
     "id": "10_reddit_csci2041_moen_vanwyk_chunk_1",
-    "text": "A longer comparison says the commenter took Moen's class and was a TA for Eric Van Wyk. For content, the commenter says Van Wyk is better because he covers more material, gives more useful assignments, and posts course materials online. Moen writes material on the board, which can make missed classes harder to recover from. For workload, Moen is described as having weekly labs, two or three projects, two midterms, and one final. Van Wyk is described as having weekly labs, in-class work, seven mostly long homeworks, five quizzes, and one final, making his workload much heavier. For grading, Moen is described as requiring a higher percentage for an A and having fewer assignments, so small mistakes hurt more. Van Wyk is described as having more assignments, partial credit, dropped lows, and a",
+    "text": "A longer comparison says the commenter took Moen's class and was a TA for Eric Van Wyk. For content, the commenter says Van Wyk is better because he covers more material, gives more useful assignments, and posts course materials online. Moen writes material on the board, which can make missed classes harder to recover from. For workload, Moen is described as having weekly labs, two or three projects, two midterms, and one final. Van Wyk is described as having weekly labs, in-class work, seven mostly long homeworks, five quizzes, and one final, making his workload much heavier. For grading, Moen is described as requiring a higher percentage for an A and having fewer assignments, so small mistakes hurt more.",
     "source_file": "10_reddit_csci2041_moen_vanwyk.txt",
     "chunk_index": 1,
     "title": "Reddit thread: CSCI2041 Moen vs Van Wyk",
@@ -193,7 +193,7 @@
   },
   {
     "id": "10_reddit_csci2041_moen_vanwyk_chunk_2",
-    "text": "akes hurt more. Van Wyk is described as having more assignments, partial credit, dropped lows, and autograder feedback, giving students more room for mistakes. The summary recommendation is that students who want to pass with less stress should choose Moen, while students who want to learn more useful material and challenge themselves should choose Van Wyk.",
+    "text": "requiring a higher percentage for an A and having fewer assignments, so small mistakes hurt more. Van Wyk is described as having more assignments, partial credit, dropped lows, and autograder feedback, giving students more room for mistakes. The summary recommendation is that students who want to pass with less stress should choose Moen, while students who want to learn more useful material and challenge themselves should choose Van Wyk.",
     "source_file": "10_reddit_csci2041_moen_vanwyk.txt",
     "chunk_index": 2,
     "title": "Reddit thread: CSCI2041 Moen vs Van Wyk",

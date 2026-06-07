@@ -162,21 +162,68 @@ def split_paragraphs(text: str) -> list[str]:
     return [p.strip() for p in paragraphs if p.strip()]
 
 
+def find_split_point(text: str, max_size: int) -> int:
+    """
+    Find a clean character position to end a chunk at or before max_size.
+
+    Priority:
+      1. Last sentence-ending punctuation (. ! ?) at or before max_size.
+      2. Last whitespace at or before max_size (word boundary).
+      3. max_size itself (no clean break found — last resort).
+    """
+    window = text[:max_size]
+
+    # Search backwards for a sentence boundary
+    for i in range(len(window) - 1, -1, -1):
+        if window[i] in ".!?":
+            return i + 1  # include the punctuation, cut after it
+
+    # No sentence boundary — fall back to the last whitespace
+    for i in range(len(window) - 1, -1, -1):
+        if window[i].isspace():
+            return i  # cut before the space so the chunk doesn't start with one
+
+    # No whitespace at all — hard cut (very rare for natural-language text)
+    return max_size
+
+
 def force_split(paragraph: str, max_size: int, overlap: int) -> list[str]:
     """
     Break a single long paragraph into pieces of at most max_size characters.
-    Each piece (after the first) starts overlap characters before the previous
-    piece ended, so context isn't lost mid-sentence.
+
+    Each piece ends at a sentence boundary or word boundary so no chunk starts
+    or ends in the middle of a word.  Each piece after the first begins
+    ~overlap characters before the previous cut, then steps forward to the
+    nearest whitespace so it starts at a clean word boundary.
     """
     pieces = []
     start = 0
+
     while start < len(paragraph):
-        end = start + max_size
-        piece = paragraph[start:end]
-        pieces.append(piece)
-        # Advance by (max_size - overlap) so the next chunk recaps the tail
-        start += max_size - overlap
-    return pieces
+        remaining = paragraph[start:]
+
+        # If what's left fits in one chunk, we're done
+        if len(remaining) <= max_size:
+            pieces.append(remaining.strip())
+            break
+
+        # Find a clean end point within the current window
+        cut = find_split_point(remaining, max_size)
+        pieces.append(remaining[:cut].strip())
+
+        # The next chunk starts ~overlap chars before the cut so context overlaps.
+        # Then advance to the nearest whitespace so we begin on a word boundary.
+        overlap_start = max(0, cut - overlap)
+        # Step forward from overlap_start until we hit whitespace (or a space after it)
+        while overlap_start < cut and not remaining[overlap_start].isspace():
+            overlap_start += 1
+        # Skip over the whitespace itself
+        while overlap_start < cut and remaining[overlap_start].isspace():
+            overlap_start += 1
+
+        start += overlap_start  # advance the global cursor
+
+    return [p for p in pieces if p]  # drop any empty strings
 
 
 def chunk_document(body: str) -> list[str]:
